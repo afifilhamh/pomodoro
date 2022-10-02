@@ -60,7 +60,7 @@ def timer(t1, t2):
 if mulai:
     st.header(tugas)
     col1, col2 = st.columns(2)
-    col1.write('*Tetaplah fokus hingga timer selesai!*')
+    col1.write('*YUK FOKUS YUK!!!!*')
     col2.write('Putar musikmu disini!')
     if musik == 'Lo-fi Jazz':
         col2.audio('app/jazz.wav')
